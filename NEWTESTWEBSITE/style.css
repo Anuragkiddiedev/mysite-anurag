@@ -1,0 +1,31 @@
+div#1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+
+
+h1.head1{
+    font-size: larger;
+    font-weight: 900;
+    
+}
+
+
+
+
+span#site{
+   font-family: cursive;
+   font-size: larger;
+   text-decoration-color: rgb(96, 97, 79);
+   
+}
+
+
+blockquote#quote{
+   text-color:rgb(131, 131, 255)
+}
+
+
+footer#footerid{
+    background-color:#2a4365;
+}
